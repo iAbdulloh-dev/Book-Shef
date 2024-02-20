@@ -2,7 +2,9 @@ import './Signin.css'
 
 const Signin = () => {
   return (
-    <div className='Header'>Signin</div>
+    <div className='Header'>
+      <h1>SignIn</h1>
+    </div>
   )
 }
 
