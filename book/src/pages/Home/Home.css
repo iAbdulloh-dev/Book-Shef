@@ -1,6 +1,105 @@
-.Header{
+.header {
     max-width: 1440px;
     width: 100%;
     height: 100vh;
     background: url(img/background.png) center center / cover;
+}
+
+.header__begin {
+    max-width: 1440px;
+    width: 100%;
+    height: 72px;
+    display: flex;
+    flex-direction: row;
+}
+
+.header__begin .logo {
+    margin-left: 100px;
+    margin-top: 15px;
+    Width: 170px;
+    Height: 48px;
+}
+
+.icon__search {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 27px;
+    left: 320px;
+    color: white;
+}
+
+.input__search {
+    width: 350px;
+    height: 48px;
+    background-color: transparent;
+    margin-top: 15px;
+    margin-left: 40px;
+    border: transparent;
+    outline: transparent;
+    padding: 0 50px;
+    box-sizing: border-box;
+    color: white;
+    font-size: 15px;
+}
+
+.input__search::placeholder {
+    color: gray;
+    font-size: 15px;
+    text-align: center;
+}
+
+.header__footer {
+    max-width: 1440px;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.first__title {
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.second__title {
+    color: #6200EE;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 53px;
+    margin-left: 15px;
+}
+
+.third__title {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    margin-top: 110px;
+    margin-left: -300px;
+}
+
+.build {
+    Width: 181px;
+    Height: 40px;
+    Radius: 4px;
+    background-color: #6200EE;
+    color: white;
+    font-size: 15px;
+    border: #6200EE;
+    outline: transparent;
+    margin-top: 70px;
+    margin-left: 1000px;
+}
+
+.card{
+    width: 398px;
+    height: auto;
+    border-radius: 12px;
+    background-color: white;
+    margin-top: 300px;
+    display: flex;
+    margin-left: -600px;
 }

@@ -1,7 +1,7 @@
 {
     "book": [
       {
-        "title": "Murodillo",
+        "title": "Sariq devni minib",
         "cover": "45646",
         "page": "465465",
         "published": "54646",
@@ -10,31 +10,13 @@
         "id": 1
       },
       {
-        "title": "Robiya",
+        "title": "Looking forward",
         "cover": "545656",
         "page": "kjkj",
         "published": "kjhjk",
         "isbn": "h",
         "author": "kjh",
         "id": 2
-      },
-      {
-        "title": "Nasrulloh",
-        "cover": "sdfsd",
-        "page": "sdfsd",
-        "published": "sdfsdf",
-        "isbn": "sdfds",
-        "author": "5465",
-        "id": 3
-      },
-      {
-        "title": "Jasurbek",
-        "cover": "sddsf",
-        "page": "sdfsd",
-        "published": "sdfsd",
-        "isbn": "5466",
-        "author": "sdfsdfsd",
-        "id": 4
       }
     ]
   }
