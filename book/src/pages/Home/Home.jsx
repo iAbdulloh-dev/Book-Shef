@@ -31,10 +31,11 @@ const Home = () => {
         {
           api.map((value) => {
             return (
-              <div className="card">
-                <h1>title:{value.title}</h1>
-                <h1>page:{value.page}</h1>
-                <h1>cover:{value.cover}</h1>
+                <div className="card">
+                <h2 className='title'>Raspberry Pi User Guide</h2>
+                <h1 className="title__h1">title:{value.title}</h1>
+                <h1 className='page__h1'>page:{value.page}</h1>
+                <h1 className='cover__h1'>cover:{value.cover}</h1>
               </div>
             )
           })

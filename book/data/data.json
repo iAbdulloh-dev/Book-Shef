@@ -1,22 +1,25 @@
 {
-    "book": [
-      {
-        "title": "Sariq devni minib",
-        "cover": "45646",
-        "page": "465465",
-        "published": "54646",
-        "isbn": "456",
-        "author": "46",
-        "id": 1
-      },
-      {
-        "title": "Looking forward",
-        "cover": "545656",
-        "page": "kjkj",
-        "published": "kjhjk",
-        "isbn": "h",
-        "author": "kjh",
-        "id": 2
-      }
-    ]
-  }
+  "book": [
+    {
+      "title": "Sariq devni minib",
+      "cover": "45646",
+      "page": "465465",
+      "published": "54646",
+      "isbn": "456",
+      "author": "46",
+      "id": 1
+    },
+    {
+      "title": "hello world",
+      "cover": "54545",
+      "page": "1212",
+      "id": 2
+    },
+    {
+      "title": "nature",
+      "cover": "2145",
+      "page": "122",
+      "id": 3
+    }
+  ]
+}
