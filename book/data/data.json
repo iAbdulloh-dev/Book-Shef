@@ -7,19 +7,19 @@
       "published": "54646",
       "isbn": "456",
       "author": "46",
-      "id": 1
+      "id": "1"
     },
     {
       "title": "hello world",
       "cover": "54545",
       "page": "1212",
-      "id": 2
+      "id": "2"
     },
     {
       "title": "nature",
       "cover": "2145",
       "page": "122",
-      "id": 3
+      "id": "3"
     }
   ]
 }
